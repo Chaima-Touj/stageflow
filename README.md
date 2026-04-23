@@ -1,5 +1,4 @@
-📌 Internship Management Web App
-
+# 🌐 StageFlow Web App
 ---
 
 ## 👩‍💻 About the project
